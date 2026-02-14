@@ -13,7 +13,7 @@ export default function NavBar() {
       </div>
       <Image
         className="rounded-2xl w-120 h-70 "
-        src="/images (2).jpg"
+        src="/Movies-APP-List/image-2.jpg"
         width={1200}
         height={100}
         alt="movie"
