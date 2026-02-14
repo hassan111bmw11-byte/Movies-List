@@ -5,7 +5,7 @@ export default function NavBar() {
     <div className="w-200 h-100 m-4 rounded mt-20 flex justify-between gap-4 items-center">
       <div className=" rounded-2xl  justify-center items-center w-120 h-60">
         <p className="  text-amber-400 mt-14 ml-8 text-4xl font-bold">
-          Unlimeted Moves
+          Unlimeted Movies
         </p>
         <p className=" text-3xl text-amber-400 ml-8 font-bold  ">
           Unlimeted Fun
